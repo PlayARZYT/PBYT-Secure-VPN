@@ -2,8 +2,6 @@
     {
         "name": "PBYT Secure VPN",
         "download_url": "https://github.com/PlayARZYT/PBYT-Secure-VPN/releases/download/first-release/PBYT_Secure_VPN_v.0.0.1_Setup.exe",
-        "desc": "Fast and secure VPN. Version 0.0.1.",
-        "is_running": false,
-        "process": null
+        "desc": "Fast and secure VPN. Version 0.0.1."
     }
 ]
